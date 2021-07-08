@@ -6,8 +6,6 @@ To download prometheus latest version visit - [download page](https://prometheus
 ```console
 foo@bar:~$ cd prometheus-2.28.1.linux-amd64
 foo@bar:~$ ./prometheus
-foo
 ``` 
-url - ip:9090
-
+### url - ip:9090 
 
